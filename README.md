@@ -109,7 +109,9 @@ Jan 5th	Informal面试
 
 > Ulrich  Mayr [套磁未回复], Brice Kuhl [未套磁] & Dagmar (Dasa) Zeithamova [未套磁]
 
-Jan 3rd	收到Ulrich邮件邀请informal面试，还在约面试时间
+Jan 3rd	收到Ulrich邮件邀请informal面试
+
+Jan 6th	Informal面试
 
 
 
