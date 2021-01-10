@@ -25,7 +25,9 @@ My application of U.S PhD programs
 
 > POI: Todd Braver [套磁，很积极回复]
 
-Jan 9th	收到Todd的informal面试邀请，约时间。
+Jan 9th	收到Todd的informal面试邀请
+
+Jan 12th	informal面试
 
 
 
