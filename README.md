@@ -7,7 +7,7 @@ My application of U.S PhD programs
 
 ##### 1 Harvard University - Psychology Program (Cognition, Brain, and Behavior)
 
->  POI: Talla Konkle [套磁，模板回复] & George Alvarez [未套磁]
+>  POI: Talia Konkle [套磁，模板回复] & George Alvarez [未套磁]
 
 ##### 未收到面试
 
