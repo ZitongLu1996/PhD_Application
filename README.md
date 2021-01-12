@@ -71,6 +71,8 @@ Dec 30th	收到Nathan的informal面试邀请
 
 Jan 5th	Informal面试：很愉快，一小时左右，流程：研究介绍（我）、问一些研究细节和观点（他）、问他为啥留圣母大学了（我）、问我的研究兴趣（他）、问我写论文的风格（他）、问我指导过其他人或者只是独立做研究（他）、问他实验室风格（我）、交流科研三观（他）。
 
+Jan 12th	收到Nathan邮件说我是他的top候选，和我约时间和他组里的RAs和博后聊一聊，以及和系里其他老师聊聊。
+
 
 
 ##### 8 Georgetown University - The Interdisciplinary Program in Neurosciense (IPN)
@@ -116,6 +118,12 @@ Jan 3rd	收到Ulrich邮件邀请informal面试
 Jan 6th	Informal面试：很愉快，一个多小时，流程：上来就问我关于DCNN的研究（他）、分享PPT给他讲（我）、问了一些相关的问题（他）、回答并顺带讲了几个我的项目（我）、介绍他现在的几个研究兴趣并分享了他的PPT（他）、问他申请流程和项目的问题（我）、问他实验室的情况和招生情况（我）、问我还申请了哪些老师（他）、说我应该申NYU和Brown这种（他）【我受宠若惊】、说过几天让我和另外两个做memory decoding的老师聊聊然后之后会发正式面试通知（他）。
 
 Jan 9th	Ulrich给我和Brice Kuhl & Sarah DuBrow发邮件约面试，等两个老师回复。
+
+Jan 10th	收到Sarah回复，约面试。
+
+Jan 11th	收到Brice回复，约面试。
+
+Jan 16th	和Sarah面试。
 
 
 
