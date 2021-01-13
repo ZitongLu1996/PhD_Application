@@ -73,6 +73,8 @@ Jan 5th	Informal面试：很愉快，一小时左右，流程：研究介绍（�
 
 Jan 12th	收到Nathan邮件说我是他的top候选，和我约时间和他组里的RAs和博后聊一聊，以及和系里其他老师聊聊。
 
+Jan 13th	和Nathan组里的博后和RAs聊。
+
 
 
 ##### 8 Georgetown University - The Interdisciplinary Program in Neurosciense (IPN)
