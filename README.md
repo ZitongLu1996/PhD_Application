@@ -25,6 +25,8 @@ Jan 14th	Rockefeller - Bioscience (Neuroscience) 被拒
 
 Jan 14th	Ohio State University - Psychology Program (Cognitive Neuroscience) 收到Offer
 
+Jan 21st	University of Notre Dame - Psychology Progam (Cognition, Brain & Behavior) 收到Offer
+
 **详情见下：**
 
 #### 共计12个项目：
@@ -50,6 +52,8 @@ Jan 9th	收到Todd的informal面试邀请
 Jan 12th	informal面试：很愉快，1小时左右，流程：自我介绍（我）、问我研究细节（他）、问我毕设研究的意义（他）+答（我）、问我为什么要申美国不留现在的实验室（他）+答（我）、问我如果没有offer接下来打算怎么办（他）+答（我）、问我为什么要转方向为什么选心理学这个项目不选另外那个计算机的项目（他）+答（我）、介绍他的两个未来的研究想法（他）+我对此的几个小提问（我）、问我觉得开发我的工具包的意义（他）+答（我）、问我还会不会继续做这个工具包（他）+答（我）、问他实验室氛围（我）+答说他每周都会meeting数据分析有个博后很厉害组里相互很多合作项目也很多合作（他）、问他什么时候面试（我）+答说二月初具体还没定应该给我面试到时候会让组里一个做的跟我相关的博士跟我聊（他）。
 
 Jan 16th	收到Todd组里博士的邮件，约时间聊一聊。
+
+Jan 21th	和Todd组的博士Michael聊一聊。
 
 ##### 4 Ohio State University - Psychology Program (Cognitive Neuroscience)
 
@@ -94,6 +98,8 @@ Jan 13th	和Nathan组里的博后和RAs聊。
 Jan 16th	收到Nathan邮件让我和项目的director-Brad Gibson聊一下
 
 Jan 17th	和Brad聊：很愉快，半个多小时，流程：一直在问我问题，让介绍一下feature-based/object-based的研究（他）、介绍了实验和结果（我）、问我参与了研究的哪些部分（他）答（我）、问我中国的培养模式是什么样的是不是主要跟一个老师（他）答（我）、问导师会不会给我反馈（他）答（我）、问和导师有争议的时候怎么办（他）答（我）、告诉我他们学校很注重导师是否对学生有欺凌（他）、问他钱的问题（我）说一年25000刀给5年（他）、问他啥时候出结果（我）说我在一个small list里可能一周后就会收到结果（他）。
+
+**Jan 21st	Nathan祝福我告诉我拿到Offer了**，告诉我stipend是25000一年，保证5年，并且告诉我可以申一个joint Ph.D. degree in Psychology and Computer Science and Engineering program，他联系了一个CS的老师（Walter Scheirer）。
 
 ##### 8 Georgetown University - The Interdisciplinary Program in Neurosciense (IPN)
 
