@@ -17,7 +17,7 @@ My application of U.S PhD programs
 
 托福88分 都在22分左右
 
-一篇影响因子2的SCI一作
+一篇影响因子2的SCI一作（提交申请的时候还没正式接收）
 
 **申请结果：**
 
@@ -49,11 +49,19 @@ Jan 21st	University of Notre Dame - Psychology Progam (Cognition, Brain & Behavi
 
 Jan 9th	收到Todd的informal面试邀请
 
-Jan 12th	informal面试：很愉快，1小时左右，流程：自我介绍（我）、问我研究细节（他）、问我毕设研究的意义（他）+答（我）、问我为什么要申美国不留现在的实验室（他）+答（我）、问我如果没有offer接下来打算怎么办（他）+答（我）、问我为什么要转方向为什么选心理学这个项目不选另外那个计算机的项目（他）+答（我）、介绍他的两个未来的研究想法（他）+我对此的几个小提问（我）、问我觉得开发我的工具包的意义（他）+答（我）、问我还会不会继续做这个工具包（他）+答（我）、问他实验室氛围（我）+答说他每周都会meeting数据分析有个博后很厉害组里相互很多合作项目也很多合作（他）、问他什么时候面试（我）+答说二月初具体还没定应该给我面试到时候会让组里一个做的跟我相关的博士跟我聊（他）。
+Jan 12th	informal面试：很愉快，1小时左右，流程：自我介绍（我）、问我研究细节（他）、问我毕设研究的意义（他）+答（我）、问我为什么要申美国不留现在的实验室（他）+答（我）、问我如果没有offer接下来打算怎么办（他）+答（我）、问我为什么要转方向为什么选心理学这个项目不选另外那个计算机的项目（他）+答（我）、介绍他的两个未来的研究想法（他）+我对此的几个小提问（我）、问我觉得开发我的工具包的意义（他）+答（我）、问我还会不会继续做这个工具包（他）+答（我）、问他实验室氛围（我）+答说他每周都会meeting数据分析有个博后很厉害组里相互很多合作项目也很多合作（他）、问他什么时候面试（我）+答说二月初具体还没定应该给我面试到时候会让组里一个做的跟我相关的博士跟我聊（他）
 
-Jan 16th	收到Todd组里博士的邮件，约时间聊一聊。
+Jan 16th	收到Todd组里博士的邮件，约时间聊一聊
 
-Jan 21th	和Todd组的博士Michael聊一聊。
+Jan 21st	和Todd组的博士Michael聊一聊
+
+Jan 26th	和Todd组的Senior Research Scientist-Jo Etzel聊一聊
+
+Jan 27th	和Jeffrey Zacks面试
+
+Jan 28th	和Wouter Kool面试
+
+Feb 5th	interview weekend
 
 ##### 4 Ohio State University - Psychology Program (Cognitive Neuroscience)
 
@@ -137,15 +145,19 @@ Jan 3rd	收到Ulrich邮件邀请informal面试
 
 Jan 6th	Informal面试：很愉快，一个多小时，流程：上来就问我关于DCNN的研究（他）、分享PPT给他讲（我）、问了一些相关的问题（他）、回答并顺带讲了几个我的项目（我）、介绍他现在的几个研究兴趣并分享了他的PPT（他）、问他申请流程和项目的问题（我）、问他实验室的情况和招生情况（我）、问我还申请了哪些老师（他）、说我应该申NYU和Brown这种（他）【我受宠若惊】、说过几天让我和另外两个做memory decoding的老师聊聊然后之后会发正式面试通知（他）。
 
-Jan 9th	Ulrich给我和Brice Kuhl & Sarah DuBrow发邮件约面试，等两个老师回复。
+Jan 9th	Ulrich给我和Brice Kuhl & Sarah DuBrow发邮件约面试，等两个老师回复
 
-Jan 10th	收到Sarah回复，约面试。
+Jan 10th	收到Sarah回复，约面试
 
-Jan 11th	收到Brice回复，约面试。
+Jan 11th	收到Brice回复，约面试
 
 Jan 16th	和Sarah面试：很愉快，半个小时：自我介绍（我）、介绍她的研究（她）、忘了还聊了啥。。。。。。
 
-Jan 22nd	和Brice面试。
+Jan 22nd	和Brice面试
+
+Jan 27th	和Ben Hutchinson面试
+
+Jan 30th	interview weekend
 
 
 
