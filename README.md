@@ -27,6 +27,8 @@ Jan 14th	Ohio State University - Psychology Program (Cognitive Neuroscience) 收
 
 Jan 21st	University of Notre Dame - Psychology Progam (Cognition, Brain & Behavior) 收到Offer
 
+Feb 13th	Washington University at St Louis - Psychological & Brain Sciences 收到Offer
+
 **详情见下：**
 
 #### 共计12个项目：
@@ -62,6 +64,10 @@ Jan 27th	和Jeffrey Zacks面试
 Jan 28th	和Wouter Kool面试
 
 Feb 5th	interview weekend
+
+Feb 12th	和Michael聊他的论文和之后的研究
+
+**Feb 13th	收到Todd的邮件告诉我被录取了！！！**
 
 ##### 4 Ohio State University - Psychology Program (Cognitive Neuroscience)
 
@@ -130,6 +136,8 @@ Jan 17th	和Brad聊：很愉快，半个多小时，流程：一直在问我问�
 > Miguel Eckstein [套磁，比较积极], Regina Lapate [未套磁] & Thomas Sprague [未套磁]
 
 ##### 未收到面试
+
+**确定已经凉了**
 
 ##### 11 Dartmouth College - Psychology Program
 
