@@ -29,6 +29,7 @@ Jan 21st	University of Notre Dame - Psychology Progam (Cognition, Brain & Behavi
 
 Feb 13th	Washington University at St Louis - Psychological & Brain Sciences 收到Offer
 
+
 **详情见下：**
 
 #### 共计12个项目：
