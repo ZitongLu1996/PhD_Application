@@ -23,12 +23,15 @@ My application of U.S PhD programs
 
 Jan 14th	Rockefeller - Bioscience (Neuroscience) 被拒
 
-Jan 14th	Ohio State University - Psychology Program (Cognitive Neuroscience) 收到Offer
+Jan 14th	The Ohio State University - Psychology Program (Cognitive Neuroscience) 收到Offer
 
 Jan 21st	University of Notre Dame - Psychology Progam (Cognition, Brain & Behavior) 收到Offer
 
 Feb 13th	Washington University at St Louis - Psychological & Brain Sciences 收到Offer
 
+**最终选择：**
+
+The Ohio State University - Cognitive Neuroscience Program - Julie Golomb's Lab
 
 **详情见下：**
 
@@ -70,7 +73,7 @@ Feb 12th	和Michael聊他的论文和之后的研究
 
 **Feb 13th	收到Todd的邮件告诉我被录取了！！！**
 
-##### 4 Ohio State University - Psychology Program (Cognitive Neuroscience)
+##### 4 The Ohio State University - Psychology Program (Cognitive Neuroscience)
 
 > POI: Julie Golomb [套磁，很积极回复]
 
